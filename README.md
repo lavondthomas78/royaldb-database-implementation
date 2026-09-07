@@ -189,7 +189,11 @@ The project reinforced the importance of testing database functionality, securit
 
 ## Repository Contents
 
-This repository includes the SQL implementation, database documentation, and validation evidence used to demonstrate the RoyalDB design and implementation.
+**[SQL](sql/)** — PostgreSQL schema creation, relational constraints, sample data, validation queries, and security implementation.
+
+**[Documentation](documentation/)** — Database implementation and administration documentation describing the RoyalDB architecture, security controls, and operational procedures.
+
+**[Evidence](evidence/)** — Screenshots demonstrating the implemented schema, relational queries, integrity-constraint enforcement, RBAC testing, backup validation, and successful database recovery.
 
 **SQL** — PostgreSQL schema creation, relational constraints, sample data, validation queries, and security implementation.
 
